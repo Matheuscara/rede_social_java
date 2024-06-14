@@ -1,0 +1,5 @@
+2024-06-14T03:04:12.671546 - Elian -> Programadores do Iraque: Salve, salve, galera!
+2024-06-14T16:17:52.532802 - Elian -> Programadores do Iraque: Salve, salve, galera!
+2024-06-14T16:18:04.792625 - Elian -> Programadores do Iraque: Salve, salve, galera!
+2024-06-14T16:26:47.930430 - Elian -> Programadores do Iraque: Salve, salve, galera!
+2024-06-14T16:26:47.939079 - Ana Amélia -> Programadores do Iraque: Salve, teste, galera!
